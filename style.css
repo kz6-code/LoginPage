@@ -50,6 +50,8 @@ form {
 
   .container {
     padding: 16px;
+    text-align: center;
+    margin: right 21px; ;
   }
   
   span.psw {
